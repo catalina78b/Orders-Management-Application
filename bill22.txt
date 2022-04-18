@@ -1,0 +1,5 @@
+Name:Emma
+Adress:Dej
+Product:banane
+Quantity:40
+Total price:200

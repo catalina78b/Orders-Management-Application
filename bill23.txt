@@ -1,0 +1,5 @@
+Name:Catalina
+Adress:Str Calea Cernauti
+Product:ciocolata
+Quantity:10
+Total price:150

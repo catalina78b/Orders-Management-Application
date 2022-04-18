@@ -1,0 +1,11 @@
+Name:Catalina
+Adress:Str Calea Cernauti
+Product:gogosi
+Quantity:100
+Total price:600
+
+ 
+ 
+ 
+ 
+2022/04/18 12:22:51

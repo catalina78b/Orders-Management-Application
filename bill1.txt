@@ -1,0 +1,11 @@
+Name:Miruna
+Adress:Str Ceahlaului
+Product:pufuleti
+Quantity:10
+Total price:100
+
+ 
+ 
+ 
+ 
+2022/04/18 12:43:30

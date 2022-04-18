@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="39.0" y="-35.5">com</node>
+    <node x="4070.0" y="-35.5">images</node>
+    <node x="3884.5" y="-35.5">netscape</node>
+    <node x="1606.5" y="284.9278329478983">bll</node>
+    <node x="3582.0" y="-35.5">org</node>
+    <node x="1384.5" y="284.9278329478983">start</node>
+    <node x="3230.0" y="-35.5">google</node>
+    <node x="2961.0" y="-35.5">toolbarButtonGraphics</node>
+    <node x="2802.0" y="-35.5">sun</node>
+    <node x="1142.5" y="284.9278329478983">presentation</node>
+    <node x="2443.5" y="-35.5">jdk</node>
+    <node x="2240.0" y="-35.5">META-INF</node>
+    <node x="2001.0" y="-35.5">groovyjarjarasm</node>
+    <node x="1384.5" y="199.5730571837227">dao</node>
+    <node x="1680.5" y="-35.5">java</node>
+    <node x="1510.0" y="-35.5">groovy</node>
+    <node x="1337.0" y="-35.5">javax</node>
+    <node x="1093.5" y="-35.5">groovyjarjarpicocli</node>
+    <node x="1580.5" y="199.5730571837227">model</node>
+    <node x="1142.5" y="199.5730571837227">connection</node>
+    <node x="435.5" y="-35.5">groovyjarjarcommonscli</node>
+    <node x="200.0" y="-35.5">groovyjarjarantlr</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Compact" zoom="0.4" showDependencies="false" x="1798.0" y="127.0" />
+  <SelectedNodes>
+    <node>bll</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>packageLocal</VISIBILITY>
+</Diagram>
+

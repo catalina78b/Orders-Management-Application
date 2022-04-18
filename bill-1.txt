@@ -1,0 +1,5 @@
+Name:Nadin
+Adress:Str Tudor Vladimirescu
+Product:ciocolata
+Quantity:15
+Total price:225
